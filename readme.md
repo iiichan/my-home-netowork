@@ -1,4 +1,4 @@
-・全体図
+<h1>全体図</h1>
 ![my home network](https://user-images.githubusercontent.com/32774697/226241238-c55a1cff-48cf-4ed8-be46-6a7307fc0d86.jpg)
 
 
