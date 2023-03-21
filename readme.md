@@ -7,6 +7,7 @@
 <p>現在</p>
 <ul>
   <li>NAS</li>
+  <li>Power Automateを利用したブラウザ操作</li>
 </ul>
 <p>過去</p>
 <ul>
